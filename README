@@ -1,0 +1,10 @@
+## AnnotationDemo
+
+* module annotationruntime 运行时注解
+
+* module javaruntime java 工程，代理模式
+
+* lib  app 编译时注解
+
+
+[相关详细介绍](http://www.jianshu.com/p/ad1d67a363ae)

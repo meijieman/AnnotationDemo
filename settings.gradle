@@ -1,1 +1,1 @@
-include ':app', ':inject', ':invocationhandler'
+include ':app', ':annotationruntime', ':javaruntime', ':lib'
